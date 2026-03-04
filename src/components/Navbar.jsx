@@ -13,7 +13,8 @@ const Navbar = () => {
         <li>Contact</li>
     </ul> */}
 
-      <button className="flex items-center gap-2 backdrop-blur-md ring ring-[#6c16c7] bg-[#6c16c7]/20 hover:bg-black/10 py-2 px-4  font-bold rounded-4xl">
+      <a href="https://github.com/Zenvok-arch">
+        <button className="flex items-center gap-2 backdrop-blur-md ring ring-[#6c16c7] bg-[#6c16c7]/20 hover:bg-black/10 py-2 px-4  font-bold rounded-4xl">
         <img
           className="bg-white rounded-full"
           src="icons8-github-50.png"
@@ -22,6 +23,7 @@ const Navbar = () => {
         />
         Github
       </button>
+      </a>
     </nav>
   );
 };

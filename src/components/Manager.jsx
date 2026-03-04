@@ -181,7 +181,7 @@ const Manager = () => {
               <h2 className="text-2xl font-bold">
                 Your <span className="text-[#6c16c7]">Passwords</span>
               </h2>
-              {passwordsArray.length === 0 && <div className="text-center py-4"> NO Password To Show </div>}
+              {passwordsArray.length === 0 && <div className="text-center py-4 text-xl text-slate-600 font-bold"> No Password To Show </div>}
               {passwordsArray.length !== 0 && (
                 <>
                   {/* Desktop Table View */}
