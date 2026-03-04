@@ -9,7 +9,7 @@ This project focuses on practicing **React state management and UI interactions*
 
 ## 🚀 Live Demo
 
-Live Demo: *Coming Soon*
+Live Demo: *https://zenvok-arch.github.io/Password-Manager-2/*
 
 ---
 
